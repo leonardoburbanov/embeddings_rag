@@ -244,7 +244,7 @@ export default function App() {
       <header className="border-b border-border">
         <div className="mx-auto flex max-w-6xl flex-wrap items-end justify-between gap-6 px-5 py-6">
           <div>
-            <p className="font-display text-5xl leading-none tracking-[-0.03em] text-foreground">Lente</p>
+            <p className="font-display text-5xl leading-none tracking-[-0.03em] text-foreground">Lente AI</p>
             <p className="mt-3 max-w-md text-sm text-muted-foreground">
               El mostrador de gafas. Busca con una frase o con una foto.
             </p>
