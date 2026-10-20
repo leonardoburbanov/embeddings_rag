@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/episodio-1-intro-a-embeddings/backend/.venv/Scripts/python.exe",
+  "python.terminal.activateEnvironment": true,
+  "notebook.defaultPythonPath": "${workspaceFolder}/episodio-1-intro-a-embeddings/backend/.venv/Scripts/python.exe"
+}
